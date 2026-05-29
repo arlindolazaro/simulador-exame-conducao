@@ -268,7 +268,75 @@
 }
 
 @media (max-width: 980px) {
+  .header {
+    padding: 0 14px;
+  }
+
   .quizGrid {
     grid-template-columns: 1fr;
+    padding: 0 14px;
+  }
+
+  .metaCard {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .header {
+    margin: 10px auto 18px;
+  }
+
+  .header h1 {
+    font-size: 1.7rem;
+  }
+
+  .subtitle {
+    font-size: 0.95rem;
+  }
+
+  .mainCard,
+  .sideCard {
+    padding: 18px;
+    border-radius: 20px;
+  }
+
+  .questionMeta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .questionTitle {
+    font-size: 1.15rem;
+    line-height: 1.4;
+  }
+
+  .option,
+  .optionSelected,
+  .optionCorrect,
+  .optionIncorrect,
+  .optionDisabled {
+    padding: 14px 14px;
+    gap: 10px;
+    border-radius: 14px;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+
+  .primaryButton,
+  .secondaryButton {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .numbersGrid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .summaryBox,
+  .summaryCard {
+    padding: 16px;
   }
 }

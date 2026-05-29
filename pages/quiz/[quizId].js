@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import quizData from '@/data/quiz-data.json';
-import Layout from '@/components/Layout';
 import QuestionCard from '@/components/QuestionCard';
 import QuizSummary from '@/components/QuizSummary';
 import styles from '@/styles/Quiz.module.css';
@@ -44,7 +43,7 @@ export default function QuizPage({ quizSet }) {
   };
 
   return (
-    <Layout>
+    <>
       <div className={styles.header}>
         <div>
           <p className={styles.bread}>Quiz / {quizSet.title}</p>
@@ -146,7 +145,7 @@ export default function QuizPage({ quizSet }) {
           </div>
         </aside>
       </div>
-    </Layout>
+    </>
   );
 }
 
