@@ -1,8 +1,11 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import quizData from '@/data/quiz-data.json';
+import Layout from '@/components/Layout';
+import ProgressBar from '@/components/ProgressBar';
 import QuestionCard from '@/components/QuestionCard';
 import QuizSummary from '@/components/QuizSummary';
+import StatCard from '@/components/StatCard';
 import styles from '@/styles/Quiz.module.css';
 
 export default function QuizPage({ quizSet }) {
@@ -43,29 +46,25 @@ export default function QuizPage({ quizSet }) {
   };
 
   return (
-    <>
-      <div className={styles.header}>
-        <div>
-          <p className={styles.bread}>Quiz / {quizSet.title}</p>
-          <h1>{quizSet.title}</h1>
-          <p className={styles.subtitle}>{quizSet.description}</p>
-        </div>
+    <Layout>
+      <section className={styles.pageShell}>
+        <header className={styles.header}>
+          <div className={styles.headerText}>
+            <p className={styles.bread}>Quiz / {quizSet.title}</p>
+            <h1>{quizSet.title}</h1>
+            <p className={styles.subtitle}>{quizSet.description}</p>
+          </div>
 
-        <div className={styles.metaCard}>
-          <div>
-            <strong>{answeredCount}</strong>
-            <span>Respondidas</span>
+          <div className={styles.metaCard}>
+            <StatCard label="Respondidas" value={answeredCount} accent="green" />
+            <StatCard label="Total" value={questions.length} accent="blue" />
+            <StatCard label="Progresso" value={`${Math.round((answeredCount / questions.length) * 100)}%`} accent="violet" />
           </div>
-          <div>
-            <strong>{questions.length}</strong>
-            <span>Total</span>
+
+          <div className={styles.progressWrap}>
+            <ProgressBar value={Math.round((answeredCount / questions.length) * 100)} label="Progresso do quiz" />
           </div>
-          <div>
-            <strong>{Math.round((answeredCount / questions.length) * 100)}%</strong>
-            <span>Progresso</span>
-          </div>
-        </div>
-      </div>
+        </header>
 
       <div className={styles.quizGrid}>
         <div className={styles.mainCard}>
@@ -123,29 +122,29 @@ export default function QuizPage({ quizSet }) {
           </div>
         </div>
 
-        <aside className={styles.sideCard}>
-          <div className={styles.summaryBox}>
-            <h2>Resumo</h2>
-            <p>
-              {answeredCount} de {questions.length} perguntas respondidas.
-            </p>
-            <p>Escolha as respostas e finalize o quiz para ver o resultado.</p>
-          </div>
+          <aside className={styles.sideCard}>
+            <div className={styles.summaryBox}>
+              <p className={styles.summaryEyebrow}>Resumo</p>
+              <h2>Continue com confiança</h2>
+              <p>{answeredCount} de {questions.length} perguntas respondidas.</p>
+              <p>Finalize o treino para ver o resultado detalhado e a sua nota em 20.</p>
+            </div>
 
-          {finished && (
-            <QuizSummary
-              correctCount={correctCount}
-              totalQuestions={questions.length}
-              onRestart={handleRestart}
-            />
-          )}
+            {finished && (
+              <QuizSummary
+                correctCount={correctCount}
+                totalQuestions={questions.length}
+                onRestart={handleRestart}
+              />
+            )}
 
-          <div className={styles.homeLink}>
-            <Link href="/">Voltar ao início</Link>
-          </div>
-        </aside>
-      </div>
-    </>
+            <div className={styles.homeLink}>
+              {/* <Link href="/">Voltar ao início</Link> */}
+            </div>
+          </aside>
+        </div>
+      </section>
+    </Layout>
   );
 }
 
