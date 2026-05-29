@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import Layout from '@/components/Layout';
 import quizData from '@/data/quiz-data.json';
 import styles from '@/styles/Home.module.css';
 
@@ -28,8 +29,9 @@ export default function Home() {
   const itemsToShow = selectedCategory === 'EXAME' ? exams : selectedCategory === 'TESTE' ? tests : [];
 
   return (
-    <main className={styles.page}>
-      <section className={styles.heroModern}>
+    <Layout>
+      <main className={styles.page}>
+        <section className={styles.heroModern}>
         <div className={styles.heroText}>
           <span className={styles.tag}>Simulador</span>
           <h1>Simulador de Exame de Condução</h1>
@@ -103,7 +105,7 @@ export default function Home() {
         </section>
       )}
 
-      <footer className={styles.footer}></footer>
-    </main>
+      </main>
+    </Layout>
   );
 }
