@@ -6,14 +6,17 @@ export default function Layout({ children }) {
     <div className={styles.page}>
       <header className={styles.header}>
         <div className={styles.headerInner}>
-          <Link href="/" className={styles.brand} aria-label="Simulador">
+          <Link href="/" className={styles.brand} aria-label="Simulador de exame de condução">
             <img src="/logo.svg" alt="Cau Solutions" className={styles.logo} />
-            <span className={styles.brandText}>Simulador • Cau Solutions</span>
+            <span>
+              <strong>Simulador</strong>
+              <small>Exame de Condução</small>
+            </span>
           </Link>
 
           <nav className={styles.nav}>
-            <Link href="/" className={styles.navLink}>Início</Link>
-            <Link href="/" className={styles.ctaLink}>Começar</Link>
+            {/* <Link href="/" className={styles.navLink}>Início</Link> */}
+            {/* <Link href="/" className={styles.ctaLink}>Começar agora</Link> */}
           </nav>
         </div>
       </header>
@@ -22,12 +25,8 @@ export default function Layout({ children }) {
 
       <footer className={styles.footer}>
         <div className={styles.footerInner}>
-          <div>
-            © {new Date().getFullYear()} Cau Solutions —
-            <a href="mailto:arlindolazaro202@gmail.com" style={{ marginLeft: 8, color: '#2563eb' }}>
-              arlindolazaro202@gmail.com
-            </a>
-          </div>
+          <p>© {new Date().getFullYear()} Cau Solutions — treino seguro, moderno e confiável.</p>
+          <a href="mailto:arlindolazaro202@gmail.com">arlindolazaro202@gmail.com</a>
         </div>
       </footer>
     </div>
