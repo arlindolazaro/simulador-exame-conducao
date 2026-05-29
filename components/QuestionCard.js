@@ -10,12 +10,13 @@ export default function QuestionCard({
   onSelect,
 }) {
   return (
-    <div className={styles.questionCard}>
+    <article className={styles.questionCard}>
       <div className={styles.questionMeta}>
-        <span>Questão {questionNumber}</span>
-        <span>{totalQuestions} totais</span>
+        <span className={styles.badge}>Questão {questionNumber}</span>
+        <span className={styles.badgeMuted}>{totalQuestions} perguntas no total</span>
       </div>
       <h2 className={styles.questionTitle}>{question.question}</h2>
+      <p className={styles.questionHint}>Escolha a resposta certa e avance com confiança.</p>
       <AnswerOptions
         options={question.options}
         selectedAnswer={selectedAnswer}
@@ -23,6 +24,6 @@ export default function QuestionCard({
         reviewMode={reviewMode}
         onSelect={onSelect}
       />
-    </div>
+    </article>
   );
 }
