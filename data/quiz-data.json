@@ -1,0 +1,2824 @@
+[
+  {
+    "id": "exame-1",
+    "title": "EXAME #1",
+    "description": "Mecânica e Legislação - 25 questões",
+    "questions": [
+      {
+        "question": "A função do injector nos motores do ciclo Diesel é:",
+        "options": [
+          "Injectar a mistura combustível na quantidade e momento certos",
+          "Injectar a gasolina na câmara de explosão",
+          "Injectar/pulverizar o gasóleo na câmara de combustão",
+          "Injectar a mistura de gasóleo e gasolina na câmara de combustão"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Os motores de combustão interna de 2 tempos completam o seu ciclo de trabalho com:",
+        "options": [
+          "1 movimento dos êmbolos, ou seja, uma volta da árvore de manivelas",
+          "2 movimentos dos êmbolos, ou seja, 1 volta da árvore de manivelas",
+          "2 movimentos dos êmbolos, ou seja, 2 voltas da árvore de manivelas",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A direcção assistida permite:",
+        "options": [
+          "Diminuir a desmultiplicação do volante",
+          "Diminuir o esforço físico do condutor durante a viragem do volante",
+          "Aumentar o ângulo de viragem"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os veículos funerários estão dispensados da inspecção periódica obrigatória?",
+        "options": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O facto de um veículo circular carregado implica que a distância de paragem:",
+        "options": [
+          "Aumenta o tempo de reacção do condutor",
+          "Aumenta",
+          "Diminui",
+          "Não altera"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Um desgaste excessivo na parte central do pneu é devido a:",
+        "options": [
+          "Excesso de carga",
+          "Pressão excessiva",
+          "Prática de travagens bruscas",
+          "Pressão insuficiente"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A pressão do ar dos pneus deve ser verificada quando estes estiverem:",
+        "options": [
+          "Em qualquer situação",
+          "Quentes",
+          "Frios"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "As zonas de apoio constituem:",
+        "options": [
+          "A parte mais importante do veio de manivelas",
+          "O veio de rotação do veio de manivelas",
+          "O eixo de rotação do veio de manivelas",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O extremo superior da biela chama-se:",
+        "options": [
+          "Corpo da biela",
+          "Pé da biela",
+          "Cabeça da biela",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os segmentos são fabricados de:",
+        "options": [
+          "Ferro fundido de alta qualidade ou liga de ferro fundido",
+          "Ferro fundido de baixa qualidade ou liga de ferro fundido",
+          "Aço, ferro fundido de alta qualidade ou liga de ferro fundido",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A libertação excessiva de fumo negro pelo tubo de escape num veículo de motor Diesel após reparação do motor pode significar:",
+        "options": [
+          "Folga excessiva nas válvulas de escape",
+          "Injectores ou bomba mal regulados",
+          "Roturas no silenciador de escape"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "É importante manter a direcção alinhada para evitar:",
+        "options": [
+          "Danos nos pneus",
+          "Ruídos incómodos",
+          "Danos irreparáveis nos pneus",
+          "Danos irreparáveis nas jantes"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O mecanismo de servo freio por depressão que equipa o automóvel permite:",
+        "options": [
+          "Efectuar o controlo e repartição da travagem pelas rodas do veículo",
+          "Repartir o esforço pelas rodas do veículo, bem como imobilizá-lo em caso de fuga de fluido",
+          "Reduzir o esforço físico do condutor, conferindo maior sensibilidade à travagem",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "As árvores de manivelas são constituídas pelas seguintes partes:",
+        "options": [
+          "Zonas de apoios, munhões, braços e contrapesos",
+          "Munhões e braços",
+          "Zonas de apoio e munhões",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Câmara de combustão é:",
+        "options": [
+          "O espaço que fica entre o êmbolo, quando este está no ponto morto superior, e a cabeça",
+          "O espaço que fica entre o êmbolo, quando este está no ponto morto inferior, e a cabeça",
+          "O ponto da morto superior",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O sistema de injecção sangra-se para retirar:",
+        "options": [
+          "Ar",
+          "Água",
+          "Gasóleo",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A pressão dos pneus deve ser verificada quando estes estiverem:",
+        "options": [
+          "Em qualquer situação",
+          "Frios",
+          "Quentes",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Indique a ordem correcta do ciclo de funcionamento do motor a 4 tempos:",
+        "options": [
+          "1, 2, 3, 4",
+          "1, 4, 3, 2",
+          "1, 3, 4, 2",
+          "3, 1, 2, 4"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A sede de uma válvula é:",
+        "options": [
+          "A zona da válvula onde está instalada a mola da válvula",
+          "Toda a zona superior da válvula",
+          "A zona da cabeça do motor onde a cabeça da válvula assenta, quando a válvula se encontra fechada",
+          "Todo o revestimento da válvula que a protege das elevadas temperaturas"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A falta do filtro de ar no motor tem como consequências:",
+        "options": [
+          "Perdas de potência",
+          "Consumo exagerado",
+          "Desgaste",
+          "Explosões no escape"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Ao dar arranque, o motor gira normalmente, mas não pega. A causa mais provável é:",
+        "options": [
+          "Falta de óleo no motor",
+          "Correia de ventoinha rompida ou não esteja esticada",
+          "Avaria no sistema de ignição ou alimentação",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A árvore de manivelas ou veio de manivelas tem a função de:",
+        "options": [
+          "Transformar o movimento alternativo dos êmbolos em movimento circular",
+          "Transformar o movimento alternativo dos êmbolos em movimento circular contínuo",
+          "Transformar o movimento rotativo dos êmbolos em movimento circular",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Indica a ordem correcta dos tempos de um ciclo de motor a 4 tempos de motor de combustão interna:",
+        "options": [
+          "Admissão, combustão/explosão, compressão, escape",
+          "Admissão, compressão, combustão/explosão, escape",
+          "Compressão, admissão, combustão/explosão, escape",
+          "Compressão, combustão/explosão, escape, admissão"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os motores de combustão interna de 4 tempos completam o seu ciclo de trabalho com:",
+        "options": [
+          "4 movimentos dos êmbolos, ou seja, 2 voltas da árvore de manivelas",
+          "2 movimentos dos êmbolos, ou seja, 2 voltas da árvore de manivelas",
+          "2 movimentos dos êmbolos, ou seja, 4 voltas da árvore de manivelas",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O feixe de luz projectado no solo pelas luzes de cruzamento deve iluminar eficazmente e sem provocar encadeamento a uma distância de:",
+        "options": [
+          "25 Metros",
+          "30 Metros",
+          "45 Metros",
+          "50 Metros"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-10",
+    "title": "EXAME #10",
+    "description": "Legislação e Condução - 25 questões",
+    "questions": [
+      {
+        "question": "A primeira inspecção obrigatória para veículos pesados particulares realiza-se no fim do primeiro ano.",
+        "options": [
+          "Verdade",
+          "Falso"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Os motores de combustão interna segundo o número de cilindros, podem se classificar em:",
+        "options": [
+          "Monocilindro ou policilíndricos",
+          "Monocilíndricos",
+          "Policilíndricos",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O feixe de luz projectado no solo pelas luzes de cruzamento devem iluminar eficazmente e sem provocar encandeamento a uma distância de:",
+        "options": [
+          "100 metros",
+          "50 metros",
+          "150 metros",
+          "30 metros"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Os motores policilíndricos são aqueles que:",
+        "options": [
+          "Só têm 2 ou 4 cilindros",
+          "Têm 2 ou mais cilindros",
+          "Nenhuma das respostas é correcta",
+          "Só têm 2 cilindros"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Para que servem as bielas?",
+        "options": [
+          "Servem para transformar o movimento circular dos pistões em movimento circular contínuo da árvore de manivelas",
+          "Nenhuma das respostas é correcta",
+          "Servem para transformar o movimento rotativo dos pistões em movimento circular contínuo da árvore de manivelas",
+          "Servem para transformar o movimento rectilíneo dos pistões em movimento circular contínuo da árvore de manivelas"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Um veículo pesado de mercadorias de peso bruto 26 toneladas e de tara 9 toneladas, tem:",
+        "options": [
+          "17 toneladas de carga útil",
+          "26 toneladas de carga útil",
+          "35 toneladas de carga útil",
+          "Não tem carga útil"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Nos motores de explosão:",
+        "options": [
+          "O combustível e o ar misturados são introduzidos separadamente no cilindro, comprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura",
+          "O combustível e o ar misturados são introduzidos conjuntamente no cilindro, descomprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura",
+          "Nenhuma das respostas é correcta",
+          "O combustível e o ar misturados são introduzidos conjuntamente no cilindro, comprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "A condução de um veículo que transporta uma cisterna é mais exigente quando:",
+        "options": [
+          "Nenhuma das respostas",
+          "Estiver cheia",
+          "Estiver vazia",
+          "Estiver pela metade"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A libertação excessiva de fumo negro pelo tubo de escape num veículo de motor Diesel após reparação do motor pode significar:",
+        "options": [
+          "Injectores ou bomba mal regulados",
+          "Roturas no silenciador de escape",
+          "Folga excessiva nas válvulas de escape"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Os tipos de bombas mais utilizados nos sistemas de lubrificação são:",
+        "options": [
+          "Bombas rotativas de palhetas",
+          "Nenhuma das respostas é correcta",
+          "Bombas de engrenagens",
+          "Bombas rotativas de palhetas, de engrenagens e bombas de rotores excêntricos"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Em uniões de peças de máquinas entre as quais não deve haver fugas de compressão e de óleo, utilizam-se juntas construídas de",
+        "options": [
+          "Materiais de borracha, aço ou plásticos",
+          "Materiais de aço, de ferro fundido ou plásticos",
+          "Nenhuma das respostas é correcta",
+          "Materiais macios, semi-macios ou plásticos"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "O que são direitos humanos?",
+        "options": [
+          "São universais, intransmissíveis, e de reivindicação perante ao estado",
+          "São universais, naturais, e de reivindicação",
+          "São universais, individuais, inatos, e de reivindicação",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O que pode acontecer se o termostato avariar na posição 'aberto'",
+        "options": [
+          "O motor não funciona",
+          "O motor nem sempre atinge a temperatura ideal de funcionamento",
+          "O motor aquece demasiado"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A altura máxima permitida aos veículos automóveis é:",
+        "options": [
+          "3,5 Metros",
+          "3,9 Metros",
+          "4,3 Metros",
+          "4,5 Metros"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O numero do quadro do veículo automóvel ?",
+        "options": [
+          "É igual ao numero do motor",
+          "É igual a serie do veículo",
+          "É igual ao numero do quadro",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O que são pneus tubless?",
+        "options": [
+          "São pneus com câmara de ar",
+          "São pneus sem câmara de ar radial designados antifurros",
+          "São pneus com telas em forma diagonal",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A cilindrada :",
+        "options": [
+          "É igual a aceleração do motor",
+          "É igual a potencia do motor",
+          "É mesmo que a velocidade do veículo",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "como se chama o extremo superior da biela ?",
+        "options": [
+          "Pé da biela",
+          "Cabeça da biela",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Que sistema de travagem utiliza o ar comprimido?",
+        "options": [
+          "O sistema Pneumático",
+          "O sistema mecânico",
+          "O sistema hidráulico"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A válvula",
+        "options": [
+          "Um dispositivo que permite a entrada e saída dos gases no interior de um cilindro fechado",
+          "Um dispositivo que permite regular a velocidade do veículo em marcha",
+          "Um dispositivo que permite trocar as marchas do veículo",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Nos veículos com direção assistida essa só funciona??",
+        "options": [
+          "Com o motor desligado",
+          "Com o motor a trabalhar",
+          "Com o veículo em andamento",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "As escovas do dínamo são de:",
+        "options": [
+          "Cobre",
+          "Metal",
+          "Carvão",
+          "Uma fibra especial"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O dispositivo que se destina a fornecer eficiência ao sistema de travagem, chama-se",
+        "options": [
+          "Nenhuma das respostas esta correcta",
+          "Disco de embriagem",
+          "Compressor de ar",
+          "Servo freio"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Os automóveis quanto a sua classe ;",
+        "options": [
+          "Ligeiros, pesados, mistos",
+          "Pesados, motociclos, ligeiros",
+          "Ligeiros e pesados",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-2",
+    "title": "EXAME #2",
+    "description": "Sistemas do Veículo - 25 questões",
+    "questions": [
+      {
+        "question": "Nos sistemas de travagem dos automóveis, a mola localizada nas maxilas dos travões tem como função:",
+        "options": [
+          "Afastar do tambor as maxilas e os respectivos calços",
+          "Pressionar as maxilas e os respectivos calços contra o tambor",
+          "Reduzir o esforço do condutor ao pressionar o pedal de travão",
+          "Dosear a força de travagem na sua fase inicial"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Em relação às molas das maxilas, qual das seguintes afirmações é verdadeira?",
+        "options": [
+          "Quando perde a sua elasticidade, ao retirar o pé do pedal após uma travagem, as rodas continuam presas",
+          "Quando perde a sua elasticidade, o carro não trava",
+          "Quando perde a sua elasticidade, a roda não trava",
+          "Quando perde a sua elasticidade, ao retirar o pé do pedal após uma travagem, a roda não trava"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Para que serve o volante do motor de combustão interna?",
+        "options": [
+          "Armazena a energia recebida das explosões nos cilindros e consome-a nos momentos em que o motor desenvolve potência",
+          "Consome a energia recebida das explosões nos cilindros e usa-a nos momentos em que o motor desenvolve potência",
+          "Armazena a energia recebida das explosões nos cilindros e devolve-a nos momentos em que o motor não desenvolve potência",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "As escovas do motor de arranque são de que material?",
+        "options": [
+          "Liga de níquel e aço",
+          "Liga de grafite com alta percentagem de cobre",
+          "Platina",
+          "Aço inoxidável"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os tipos de bombas mais utilizadas nos sistemas de lubrificação são:",
+        "options": [
+          "Bombas rotativas de palhetas",
+          "Bombas rotativas de palhetas, de engrenagem e bombas de rotores excêntricos",
+          "Bombas de engrenagem",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Nos motores Diesel:",
+        "options": [
+          "O combustível é introduzido no cilindro, comprimido e posteriormente é introduzido o ar, sendo queimada a mistura",
+          "O ar é introduzido primeiramente no cilindro, comprimido e posteriormente é introduzido o combustível finalmente pulverizado, sendo queimado ao se misturar com o ar comprimido e frio que existe no cilindro",
+          "O ar é introduzido primeiramente no cilindro, comprimido e posteriormente é introduzido o combustível finalmente pulverizado, sendo queimado ao se misturar com o ar quente que existe no cilindro",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Como se designa o conjunto de elementos que permite a ligação mecânica entre o veio de transmissão e os semi-eixos das rodas motoras?",
+        "options": [
+          "Diferencial",
+          "Cubos",
+          "Caixa de velocidade",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "As luzes laterais e fitas reflectivas são obrigatórias para veículos com comprimento superior a 6,00 metros?",
+        "options": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A válvula de enchimento de ar em pneus tubeless está montada:",
+        "options": [
+          "Não tem válvula de enchimento",
+          "Na câmara-de-ar",
+          "Na jante"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Se percorrer uma distância de 210 km em 3 horas e meia, a velocidade média foi de:",
+        "options": [
+          "60 km/h",
+          "70 km/h",
+          "50 km/h",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Considera-se lubrificação:",
+        "options": [
+          "A introdução de óleo entre duas peças móveis para evitar o desgaste, atrito e aquecimento",
+          "A introdução de óleo num motor de 2 tempos para não gripar",
+          "A introdução de diesel entre duas peças móveis para não gripar",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Indique qual é o elemento que faz a ligação do êmbolo à biela:",
+        "options": [
+          "Cavilhão",
+          "Segmento",
+          "Cambota",
+          "Árvore de cames"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Designa-se por sangria:",
+        "options": [
+          "A operação que consiste na admissão de ar no sistema de alimentação",
+          "A operação que consiste em retirar o ar nos órgãos de alimentação",
+          "A operação que consiste na limpeza dos tubos do sistema de alimentação",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Com quantos parafusos aperta a biela no eixo das manivelas?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Num motor refrigerado a ar, para se conseguir um melhor arrefecimento do mesmo é normal utilizar-se:",
+        "options": [
+          "Permutador de calor/ar para baixar a temperatura exterior antes de esta ir arrefecer o motor",
+          "Aletas para aumentar a superfície de transferência das paredes dos cilindros, bem como aumentar a velocidade do ar exterior",
+          "Aletas para aumentar a superfície de transferência das paredes dos cilindros, bem como diminuir a velocidade do ar exterior",
+          "Termóstatos especiais"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A lotação máxima de um veículo ligeiro é:",
+        "options": [
+          "16 lugares",
+          "9 lugares",
+          "22 lugares",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Qual é a indicação visível de um motor diesel que consome gasóleo em excesso?",
+        "options": [
+          "O fumo negro que sai pelo escape",
+          "O fumo branco que sai pelo escape",
+          "A água que aparece no cárter"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Centro de gravidade de um corpo:",
+        "options": [
+          "O ponto em que se apoia",
+          "O seu centro geométrico",
+          "O ponto imaginário onde actua o seu peso e que coincide com o centro geométrico se a figura for regular",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O sistema de refrigeração nos motores de 2 tempos é feito por:",
+        "options": [
+          "Chapinhagem",
+          "Bomba e chapinhagem",
+          "Suspensão",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Barras estabilizadoras e as barras de torção são órgãos:",
+        "options": [
+          "Da direcção",
+          "Do sistema de travagem",
+          "Da suspensão",
+          "Do quadro do veículo"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Os motores de automóveis podem ser refrigerados a ar?",
+        "options": [
+          "Não, esse sistema só se aplica nos motociclos",
+          "Sim, desde que exista uma turbina",
+          "Sim, desde que exista um compressor de ar",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "A fabricação dos cilindros de um motor de combustão interna é feita:",
+        "options": [
+          "Por lapidação",
+          "Por vulcanização",
+          "Por fundição",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Quais as avarias que pode sofrer uma bomba de água?",
+        "options": [
+          "Carretos gripados ou roldana partida",
+          "Diafragma roto ou válvula a vedar mal",
+          "Rolamentos gripados ou empanque a vedar mal",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "No primeiro tempo do motor de explosão:",
+        "options": [
+          "Entra ar no cilindro",
+          "Entra mistura gasosa no cilindro",
+          "Entra mistura de ar e gasóleo no cilindro",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-3",
+    "title": "EXAME #3",
+    "description": "Motor e Funcionamento - 25 questões",
+    "questions": [
+      {
+        "question": "A série completa de operações realizadas sucessivamente e de forma periódica no interior do cilindro designa-se:",
+        "options": [
+          "Tempo do motor",
+          "Curso do pistão",
+          "Ciclo do motor",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "De que material são fabricados os cilindros do motor de combustão interna?",
+        "options": [
+          "Alumínio",
+          "Ferro fundido",
+          "Antimónio",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A largura máxima de um automóvel pesado em Moçambique é:",
+        "options": [
+          "2,00 Metros",
+          "2,50 Metros",
+          "2,60 Metros",
+          "3,00 Metros"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Se num motor a gasolina a distribuição for feita por correia, o motor fica:",
+        "options": [
+          "Com mais potência",
+          "Com menor necessidade de manutenção",
+          "Mais silencioso"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A função do volante do motor é:",
+        "options": [
+          "Aumentar o ralenti do motor",
+          "Equilibrar o funcionamento do motor, vencer os pontos mortos e amortecer os impulsos bruscos produzidos pelas explosões",
+          "Colocar o veículo em marcha",
+          "Nenhuma resposta está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Como é feito o arrefecimento a ar nos motores de motociclos?",
+        "options": [
+          "Por meio do ar que circula pelas aletas colocadas em volta do cilindro",
+          "Por meio de uma bomba de ar",
+          "Por meio de uma bomba de água",
+          "Por meio de uma turbina accionada pelo volante do motor"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Para transmitir potência às rodas motoras, o motor de combustão interna:",
+        "options": [
+          "Produz energia potencial",
+          "Produz energia calorífica",
+          "Transforma a energia calorífica em energia mecânica",
+          "Transforma a energia potencial em energia mecânica"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Partes principais do motor:",
+        "options": [
+          "Cambota, biela, pistão",
+          "Cabeça, bloco de cilindros e cárter",
+          "Bloco, cárter e biela",
+          "Cabeça, cambota e cárter"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Qual destes tem o cárter seco?",
+        "options": [
+          "Motor",
+          "Diferencial",
+          "Caixa de velocidades manual e caixa automática",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Nos motores a diesel, a combustão começa quando:",
+        "options": [
+          "A faísca salta nos pólos das velas",
+          "A gasolina é injectada na câmara de combustão",
+          "O gasóleo é injectado",
+          "A válvula de admissão estiver aberta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Ciclo de funcionamento do motor de combustão interna a 4 tempos:",
+        "options": [
+          "Admissão, combustão/explosão, escape",
+          "Combustão/explosão, escape, admissão",
+          "Escape, admissão, combustão/explosão",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "O agente no acto de fiscalização a condutor de veículo pesado de transporte rodoviário de mercadorias pode solicitar a apresentação:",
+        "options": [
+          "Da respectiva guia de transporte mas não do título de condução",
+          "Da respectiva guia de transporte e do título de condução",
+          "Do título de condução mas não do documento legal de identificação pessoal"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os fusíveis que integram o circuito de iluminação dos veículos servem para:",
+        "options": [
+          "Evitar ligações perigosas depois da passagem de corrente pelos órgãos de consumo",
+          "Melhorar/optimizar a passagem de energia eléctrica pelos respectivos circuitos",
+          "Proteger a instalação eléctrica do risco de curto-circuito"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Se ao destravar os calços continuarem encostados aos tambores, a causa pode ser:",
+        "options": [
+          "Calços gastos",
+          "Fuga na bomba dos travões",
+          "Molas de retorno das maxilas fracas",
+          "Nenhuma das afirmações está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Um motor a gasolina circula a cerca de 70% da sua velocidade máxima e revela 'falhas' de funcionamento. A causa mais provável é:",
+        "options": [
+          "Avaria no sistema de alimentação e gestão electrónica",
+          "Avaria no sistema de lubrificação",
+          "Funcionamento deficiente do sistema de escapamento de gases"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Num automóvel pesado equipado com caixa de velocidades manual, o condutor ao engrenar uma marcha deve:",
+        "options": [
+          "Accionar a alavanca selectora com força e o mais rapidamente possível",
+          "Accionar a alavanca selectora o mais rapidamente possível de modo a igualar a velocidade periférica dos carretos de dentes rectos",
+          "Ter em consideração que o processo de sincronização se baseia no atrito que resulta do contacto entre superfícies metálicas"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Um dos sinais evidentes de que o silenciador ou panela de escape necessita de ser substituído é:",
+        "options": [
+          "Alteração do ruído, com aumento significativo do nível sonoro",
+          "Saída de água pelo tubo de escape",
+          "Saída de fumo negro pelo tubo de escape"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O quadro/estrutura utilizado nos modernos automóveis ligeiros de passageiros com bom desempenho dinâmico e com tracção dianteira é designado por:",
+        "options": [
+          "Longarinas ou travessas",
+          "Monobloco",
+          "Quadro de estrutura montada em tandem",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Uma máquina industrial é considerada um veículo ligeiro quando:",
+        "options": [
+          "A tara não exceda 3500 kg",
+          "O peso bruto não exceda os 5000 kg",
+          "O peso bruto do equipamento não exceda os 2000 kg"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Na condução de um autocarro interurbano que transporte crianças em idade escolar e em pé, o condutor deve:",
+        "options": [
+          "Garantir que não permaneçam crianças na área de funcionamento das portas do autocarro",
+          "Garantir o escrupuloso cumprimento dos horários previstos, uma vez que deve ser a sua principal preocupação",
+          "Tentar superar os limites horários fixados, já que as crianças se equilibram melhor que os adultos"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quando é fiscalizado pela autoridade competente um condutor de um automóvel pesado utilizado no transporte rodoviário de mercadorias, deve:",
+        "options": [
+          "Apresentar a respectiva guia de transporte e o título de condução, desde que seja solicitado",
+          "Apresentar o alvará do destinatário da mercadoria e a respectiva guia de transporte",
+          "Apresentar um atestado de capacidade profissional e o título de condução"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A primeira inspecção periódica obrigatória para veículos pesados realiza-se:",
+        "options": [
+          "Dois anos após a primeira matrícula",
+          "Quatro anos após a primeira matrícula",
+          "Um ano após a primeira matrícula"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O GPS (Sistema de Posicionamento Global) permite que o condutor obtenha, entre outras, as seguintes informações:",
+        "options": [
+          "Velocidade média, localização de áreas de serviço e de locais de interesse turísticos, bem como o valor da correspondente altitude",
+          "Velocidade média, localização de áreas de serviço de locais de interesse turístico e das patrulhas de polícia",
+          "Velocidade média, localização de áreas de serviço de locais de interesse turísticos e dos radares de registos de velocidade"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O condutor de um autocarro deve ter sempre presente a necessidade de adequar a condução:",
+        "options": [
+          "Ao tipo de traçado da via e ao número de pessoas transportadas em pé",
+          "Somente ao cumprimento dos horários fixados e ao número de paragens a efectuar",
+          "Somente ao tipo de veículo conduzido e aos limites de velocidades impostos por sinalização"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O comprimento máximo legalmente admitido para os automóveis pesados de passageiros de 3 ou mais eixos é:",
+        "options": [
+          "15 metros",
+          "16 metros",
+          "17 metros"
+        ],
+        "answerIndex": 0,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-4",
+    "title": "EXAME #4",
+    "description": "Sistemas e Componentes - 25 questões",
+    "questions": [
+      {
+        "question": "Verificando-se frequentemente necessidade de acrescentar óleo no motor, bem como derramamento do mesmo, pode concluir-se que:",
+        "options": [
+          "A bomba de água está avariada",
+          "Está a utilizar-se óleo muito fluido",
+          "O cárter e/ou a respectiva junta estão a vedar mal",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A largura máxima admissível para veículos pesados de mercadorias é:",
+        "options": [
+          "2,50 metros",
+          "2,55 metros",
+          "2,60 metros",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "As inspecções periódicas a veículos são obrigatórias para:",
+        "options": [
+          "Motociclos e veículos pesados",
+          "Automóveis pesados e reboques de mercadorias",
+          "Motociclos, veículos pesados e todos os reboques",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Caso um semi-eixo flutuante se parta:",
+        "options": [
+          "A roda do lado do semi-eixo partido salta fora",
+          "O veículo descai sobre o lado do semi-eixo partido",
+          "O veículo fica sem tracção"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Sempre que na condução se utiliza o GPS, é mais seguro recorrer à função que permite a utilização de:",
+        "options": [
+          "Mapas cartográficos em conjunto com mapas digitais",
+          "Mapas do que recorrer à utilização de sintetizadores de voz",
+          "Sintetizadores de voz que permitem a indicação do caminho ou rumo"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Que cuidados se devem ter ao lavar os motores a Diesel?",
+        "options": [
+          "Isolar as velas de incandescência",
+          "Aguardar o arrefecimento dos motores",
+          "Tapar a admissão de ar no carburador",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "No transporte simultâneo de carga de volumes diferentes deve atender-se ao seguinte:",
+        "options": [
+          "Intercalar o posicionamento dos dois tipos de cargas",
+          "As cargas mais pesadas devem ser colocadas junto ao centro de gravidade da caixa de carga",
+          "Os volumes maiores devem ser colocados junto à cabine e os mais pesados ao fundo da caixa de carga"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Num veículo pesado de mercadorias, a estrutura resistente principal designa-se:",
+        "options": [
+          "Carroçaria",
+          "Longarina",
+          "Quadro ou chassi",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Por norma, o sistema de acoplamento/engate para reboques montado num automóvel pesado integra:",
+        "options": [
+          "Uma cavilha que atravessa o olhal da lança com 40 ou 50 milímetros de diâmetro, entre outros",
+          "Uma cavilha que atravessa o olhal da lança com diâmetro único de 40 mm",
+          "Uma cavilha que atravessa o olhal da lança com diâmetro único de 50 mm"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O peso bruto máximo legalmente admitido para um automóvel pesado de mercadorias de 3 eixos é:",
+        "options": [
+          "25 toneladas",
+          "26 toneladas",
+          "27 toneladas",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quais são os tipos de cárter que conheces?",
+        "options": [
+          "Húmido",
+          "Húmido e seco",
+          "Húmido, misto e seco",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Quais são os sistemas que os motores de combustão interna têm?",
+        "options": [
+          "Sistema de alimentação, lubrificação, distribuição, refrigeração, eléctrico e travagem",
+          "Sistema de alimentação, bombagem e lubrificação",
+          "Sistema de alimentação, lubrificação, distribuição, bombagem, eléctrico e travagem",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Num veículo pesado de mercadorias qual é a estrutura mais resistente?",
+        "options": [
+          "Chassi ou quadro",
+          "Longarina",
+          "Carroçaria",
+          "Monobloco"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quais são as consequências para um veículo equipado com amortecedores danificados quando circula em piso irregular?",
+        "options": [
+          "Menor estabilidade e maior conforto, dado o maior amortecimento das molas",
+          "Maior oscilação das molas e menor estabilidade",
+          "Maior estabilidade em recta e menor em curvas"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Qual é a função do sistema de lubrificação nos motores de combustão interna?",
+        "options": [
+          "Distribuir o óleo lubrificante entre as partes móveis do motor para diminuir o desgaste, o ruído e auxiliar no arrefecimento do motor",
+          "Distribuir o óleo lubrificante entre partes fixas do motor para diminuir o desgaste e auxiliar no arrefecimento do motor",
+          "Distribuir o óleo lubrificante entre as partes móveis do motor para aumentar o desgaste, o ruído e auxiliar no arrefecimento do motor",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O conjunto êmbolo-biela é responsável por:",
+        "options": [
+          "Receber e transmitir a energia ou força de compressão para a converter em trabalho mecânico sob a forma de movimento",
+          "Receber e transmitir a energia ou força de combustão para a converter em trabalho mecânico sob a forma de movimento",
+          "Receber e transmitir o movimento do motor",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O veículo que se destina a transitar atrelado a um veículo a motor, assentando pela parte frontal e distribuindo o seu peso sobre este, designa-se:",
+        "options": [
+          "Semi-reboque",
+          "Inter-link",
+          "Reboque",
+          "Veículo articulado"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "As chumaceiras em que se apoia o veio de manivelas denominam-se:",
+        "options": [
+          "Chumaceiras em linha",
+          "Chumaceiras em V",
+          "Chumaceiras cinzentas"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Se para a travagem de um veículo o condutor tiver que accionar sucessivas vezes o pedal de travão, conclui-se que:",
+        "options": [
+          "A tensão das molas das maxilas é excessiva",
+          "O tambor está empenado e a tensão das molas das maxilas é excessiva",
+          "Existe ar na tubagem do sistema de travagem"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Segundo a posição dos cilindros, os motores podem ser:",
+        "options": [
+          "Em linha, em V e opostos",
+          "Em linha e em V",
+          "Opostos",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O que faz com que os segmentos se comprimam contra a parede do cilindro é a sua:",
+        "options": [
+          "Plasticidade",
+          "Maleabilidade",
+          "Elasticidade",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O desgaste dos pneus é maior:",
+        "options": [
+          "No inverno",
+          "No verão",
+          "É igual em todas as estações do ano"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os primeiros caracteres do número do quadro indicam:",
+        "options": [
+          "A característica geral do construtor",
+          "Número do motor",
+          "O número de identificação do construtor",
+          "Número de série do veículo"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Para que servem as bielas?",
+        "options": [
+          "Transformar o movimento circular dos pistões em movimento circular contínuo da árvore de manivelas",
+          "Transformar o movimento rectilíneo dos pistões em movimento circular contínuo da árvore de manivelas",
+          "Transformar o movimento rotativo dos pistões em movimento circular contínuo da árvore de manivelas",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-5",
+    "title": "EXAME #5",
+    "description": "Motor e Funcionamento - 25 questões",
+    "questions": [
+      {
+        "question": "Qual é a ordem correcta de um motor de explosão de quatro tempos?",
+        "options": [
+          "Admissão, compressão, explosão e escape",
+          "Compressão, explosão, escape e admissão",
+          "Admissão, compressão, escape e explosão",
+          "Escape, admissão, explosão e compressão"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Nos motores de explosão:",
+        "options": [
+          "O combustível e o ar misturados são introduzidos conjuntamente no cilindro, comprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura",
+          "O combustível e o ar misturados são introduzidos separadamente no cilindro, comprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura",
+          "O combustível e o ar misturados são introduzidos conjuntamente no cilindro, descomprimidos, e salta uma faísca eléctrica que provoca a explosão da mistura",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O sistema de refrigeração num motor de 2 tempos é feito por:",
+        "options": [
+          "Chapinhagem",
+          "Bomba e chapinhagem",
+          "Bomba",
+          "Suspensão"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A biela é a peça que estabelece ligação entre o êmbolo e a cambota. A parte inferior da biela ligada à cambota chama-se:",
+        "options": [
+          "Moente de apoio",
+          "Cavilha dos êmbolos",
+          "Cabeça da biela",
+          "Pé da biela"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O pistão sobe e as duas válvulas estão fechadas. É tempo de:",
+        "options": [
+          "Admissão",
+          "Explosão",
+          "Compressão",
+          "Escape"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Vulgarmente, ao afinar as válvulas do motor dá-se:",
+        "options": [
+          "Mais folga às válvulas de escape",
+          "Menos folga à válvula de escape",
+          "Menos folga à válvula de admissão"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Com que instrumentos se faz a afinação das válvulas em motor que tem válvulas à cabeça?",
+        "options": [
+          "Chave de fendas",
+          "Chave de fendas e chave de boca fixa",
+          "Chave de fendas, chave de boca fixa e palpa-folgas",
+          "Duas chaves de boca fixa e palpa-folgas"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "O motor falha quando funciona em alta rotação. Qual pode ser a causa?",
+        "options": [
+          "Carburador sujo",
+          "Fuga no colector de escape",
+          "Fuga no colector de admissão",
+          "Pouca pressão no óleo de lubrificação"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Porque motivo o motor tem pouca potência?",
+        "options": [
+          "O parafuso do 'ralenti' está mal regulado",
+          "Os segmentos dos êmbolos têm desgaste excessivo"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Qual a posição das válvulas no tempo de compressão?",
+        "options": [
+          "Válvula de admissão aberta e escape fechada",
+          "Válvula de escape aberta e admissão fechada",
+          "As duas válvulas estão fechadas",
+          "As duas válvulas estão abertas"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A série completa de operações realizadas sucessivamente e de forma periódica no interior do cilindro designa-se:",
+        "options": [
+          "Tempo do motor",
+          "Curso do pistão",
+          "Ciclo do motor",
+          "Tempo de admissão"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O motor a dois tempos completa o ciclo em:",
+        "options": [
+          "Duas voltas da cambota e quatro do pistão",
+          "Quatro voltas da cambota e dois cursos do pistão",
+          "Uma volta da cambota e dois cursos do pistão",
+          "Duas voltas da cambota e dois cursos do pistão"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Motores monocilíndricos têm:",
+        "options": [
+          "Um cilindro",
+          "Dois ou mais cilindros",
+          "Dois cilindros",
+          "Quatro cilindros"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O volante do motor tem a função de:",
+        "options": [
+          "Equilibrar o motor",
+          "Vencer os pontos mortos do motor"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os motores policilíndricos são aqueles que:",
+        "options": [
+          "Têm 2 ou mais cilindros",
+          "Só têm 2 cilindros",
+          "Só têm 2 ou 4 cilindros",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Os gases resultantes da combustão e libertados para a atmosfera pelos veículos a motor são:",
+        "options": [
+          "Prejudiciais ao meio ambiente, mas benéficos para a natureza",
+          "Absorvidos pela atmosfera sem consequências negativas",
+          "Prejudiciais ao meio ambiente e ao ser humano"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A altura máxima de um veículo em Moçambique é de:",
+        "options": [
+          "4,30 metros",
+          "3,50 metros",
+          "6,00 metros",
+          "5,80 metros"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O condutor sente a direcção instável durante a marcha. Qual será a provável causa?",
+        "options": [
+          "Pneus gastos",
+          "Roda desapertada, jante empenada ou caroço num pneu provocado pelo deslocamento de telas",
+          "Veio de transmissão partido"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O feixe de luz projectado no solo pelas luzes de cruzamento deve iluminar eficazmente e sem provocar encadeamento a uma distância de:",
+        "options": [
+          "50 metros",
+          "100 metros",
+          "30 metros",
+          "150 metros"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A água desce do radiador, entra na bomba, sobe para as camisas de água no motor e volta para o radiador. Este é o percurso correcto da água no sistema de refrigeração?",
+        "options": [
+          "Sim",
+          "Não, a água desce das camisas, entra no radiador e volta à bomba",
+          "Não, a água sobe ao radiador, entra na bomba, sobe para as camisas e volta à bomba"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A ventoinha do sistema de refrigeração é necessária para:",
+        "options": [
+          "Ventilar o interior",
+          "Aumentar a eficiência do radiador, especialmente quando o veículo se desloca lentamente e durante o tempo quente",
+          "Tornar o sistema de arrefecimento independente do funcionamento do motor",
+          "Arrefecer o motor através da aceleração do ar que o circunda"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Onde existe diferença entre o motor de combustão interna e o motor de explosão?",
+        "options": [
+          "No sistema de transmissão",
+          "No sistema de travagem",
+          "No sistema de alimentação"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Qual é o material que fabrica as bielas?",
+        "options": [
+          "Ferro fundido",
+          "Aço forjado",
+          "Alumínio",
+          "Nenhuma das afirmações é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Quais são as válvulas de um motor de combustão interna?",
+        "options": [
+          "Admissão e compressão",
+          "Admissão e escape",
+          "Admissão e explosão"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Num veículo pesado de mercadorias qual é a estrutura mais resistente?",
+        "options": [
+          "Monobloco",
+          "Chassis ou quadro",
+          "Longarina",
+          "Carroçaria"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-6",
+    "title": "EXAME #6",
+    "description": "Mecânica Básica - 25 questões",
+    "questions": [
+      {
+        "question": "Qual é o nome que se dá aos lubrificantes utilizados para caixa de velocidades manual e o diferencial?",
+        "options": [
+          "Massas consistentes",
+          "Valvulinas",
+          "Óleos",
+          "Nenhuma das afirmações é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Um veículo pesado de mercadorias de peso bruto 26 toneladas e de tara 9 toneladas tem?",
+        "options": [
+          "35 toneladas de peso útil",
+          "26 toneladas de peso útil",
+          "17 toneladas de peso útil",
+          "Não tem carga útil"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Nos motores de válvulas à cabeça, a abertura das válvulas é efectuada através de:",
+        "options": [
+          "Impulsores",
+          "Martelos ou balanceiros",
+          "Carretos de distribuição",
+          "Veio de excêntricos"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Um motor de 2 tempos completa o seu ciclo de funcionamento em:",
+        "options": [
+          "1 volta de eixo das manivelas e 1 volta do êmbolo",
+          "2 voltas do êmbolo e 1 volta de eixo das manivelas",
+          "Nenhuma das afirmações anteriores está correcta",
+          "2 voltas de eixo das manivelas e 2 voltas do êmbolo"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O veículo que se destina a transitar atrelado a outro veículo chama-se?",
+        "options": [
+          "Reboque",
+          "Semi-reboque",
+          "Auto-carrão",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Se para travagem de um veículo, o condutor tiver que accionar sucessivas vezes o pedal de travão, conclui-se:",
+        "options": [
+          "Nenhuma das respostas está correcta",
+          "Existe ar na tubagem do sistema de travagem",
+          "O tambor está empenado e a tensão das maxilas é excessiva",
+          "A tensão das molas das maxilas é excessiva"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Os motores policilíndricos são aqueles que:",
+        "options": [
+          "Só tem 2 ou 4 cilindros",
+          "Tem 2 ou mais cilindros",
+          "Tem 1 ou mais cilindros",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O mecanismo servo freio por depressão que equipa os veículos automóveis permite:",
+        "options": [
+          "Facilitar a travagem conferindo maior sensibilidade ao condutor",
+          "Bloquear as rodas motoras se necessário",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quando o condutor carrega no pedal de embriagem:",
+        "options": [
+          "O disco de embriagem aproxima-se do volante do motor",
+          "Interrompe-se a ligação entre o motor e a caixa de velocidades",
+          "Estabelece-se a ligação entre o motor e a caixa de velocidades",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O que é filtro de ar?",
+        "options": [
+          "Dispositivo que se destina a retirar as impurezas do óleo",
+          "Dispositivo que se destina a retirar as impurezas do ar",
+          "Dispositivo que se destina a retirar as impurezas do ar",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A válvula:",
+        "options": [
+          "Dispositivo que permite a entrada da mistura gasosa ou ar nos cilindros e a saída dos gases",
+          "Dispositivo que impede que o veículo deslize em descidas acentuadas",
+          "Dispositivo que partilha a travagem das rodas motoras",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Os veículos funerais estão isentos à inspeção periódica obrigatória?",
+        "options": [
+          "Verdade",
+          "Falso"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Ciclo de funcionamento a 4 tempos:",
+        "options": [
+          "Admissão/compressão/explosão",
+          "Admissão/compressão/explosão/escape",
+          "Admissão/compressão/escape/explosão",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O conjunto êmbolo-biela é responsável por:",
+        "options": [
+          "Receber e transmitir a energia ou força de compressão para converter em trabalho mecânico sob a forma de movimento",
+          "Receber e transmitir o movimento do motor para converter em trabalho mecânico sob a forma de movimento",
+          "Nenhuma das respostas está correcta",
+          "Receber e transmitir a energia ou força de combustão para converter em trabalho mecânico sob a forma de movimento"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Segundo a posição dos cilindros, os motores de combustão interna podem ser:",
+        "options": [
+          "Monocilíndricos ou policilíndricos",
+          "Monocilíndricos",
+          "Policilíndricos",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quais são as consequências para um veículo equipado com amortecedores danificados que circula em piso irregular?",
+        "options": [
+          "A distância de travagem aumenta perigosamente",
+          "Diminuição da distância de travagem",
+          "A distância de travagem não altera",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O peso bruto de um veículo ligeiro:",
+        "options": [
+          "3.500 kg",
+          "5.000 kg",
+          "2.500 kg",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Segundo a sua classe os veículos automóveis podem ser:",
+        "options": [
+          "Ligeiros, autocarros",
+          "Ligeiros e pesados",
+          "Ligeiros, pesados e mistos"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O feixe luminoso de luzes de cruzamento projectada ao solo deverá iluminar eficazmente uma distância não superior?",
+        "options": [
+          "50 metros",
+          "30 metros",
+          "100 metros"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A função do injector no motor do ciclo Diesel:",
+        "options": [
+          "Injectar a mistura combustível na quantidade e momento certo",
+          "Injectar a gasolina na câmara de explosão",
+          "Injectar ou pulverizar o gasóleo na câmara de combustão",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O extremo superior da biela chama-se:",
+        "options": [
+          "Pé da biela",
+          "Cabeça da biela",
+          "Corpo da biela",
+          "Nenhuma resposta está correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A cilindrada de um motor:",
+        "options": [
+          "É aquela que define a velocidade do veículo",
+          "É igual à potência do motor",
+          "A soma dos volumes de todos os cilindros de um motor",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "As folgas existentes no sistema de direcção podem ser corrigidas ajustando:",
+        "options": [
+          "Rótulas da direcção muito apertadas",
+          "Folgas excessivas nos órgãos de direcção ou pneu desapertado",
+          "Falta de lubrificação na caixa de direcção"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O tempo de motor em que as válvulas de admissão e escape estão simultaneamente abertas chama-se:",
+        "options": [
+          "Admissão",
+          "Compressão",
+          "Combustão",
+          "Explosão"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-7",
+    "title": "EXAME #7",
+    "description": "Legislação e Manutenção - 25 questões",
+    "questions": [
+      {
+        "question": "Os motores de combustão interna segundo a forma como se realiza a combustão, podem se classificar em:",
+        "options": [
+          "Motores de explosão",
+          "Nenhuma das respostas está correcta",
+          "Motores Diesel"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A direcção assistida tem o seu funcionamento quando:",
+        "options": [
+          "O veículo em andamento",
+          "O motor a trabalhar",
+          "A chave de ignição ligada"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O número do motor está gravado no:",
+        "options": [
+          "Data do fabrico",
+          "Bloco do motor",
+          "Série do veículo",
+          "Nenhuma das respostas está correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A biela tem como função:",
+        "options": [
+          "Receber a força de combustão do veio das manivelas e transmiti-la ao êmbolo",
+          "Nenhuma das respostas está correcta",
+          "Receber a força de combustão do êmbolo e transmiti-la ao veio das manivelas"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O fusível tem como função:",
+        "options": [
+          "Intensificar a corrente eléctrica",
+          "Estabelecer a ligação entre os vários circuitos",
+          "Proteger os diversos circuitos"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Os elementos que constituem o sistema de suspensão são:",
+        "options": [
+          "Cardans, estabilizadores, pneus e amortecedores",
+          "Pneus e semi-eixos",
+          "Pneus, molas e amortecedores",
+          "Pneus e amortecedores"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O que são direitos humanos?",
+        "options": [
+          "São universais, intransmissíveis, e de reivindicação perante ao estado",
+          "São universais, naturais, e de reivindicação",
+          "São universais, individuais, inatos, e de reivindicação",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O que pode acontecer se o termostato avariar na posição 'aberto'",
+        "options": [
+          "O motor não funciona",
+          "O motor nem sempre atinge a temperatura ideal de funcionamento",
+          "O motor aquece demasiado"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A altura máxima permitida aos veículos automóveis é:",
+        "options": [
+          "3,5 Metros",
+          "3,9 Metros",
+          "4,3 Metros",
+          "4,5 Metros"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O numero do quadro do veículo automóvel ?",
+        "options": [
+          "É igual ao numero do motor",
+          "É igual a serie do veículo",
+          "É igual ao numero do quadro",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O que são pneus tubless?",
+        "options": [
+          "São pneus com câmara de ar",
+          "São pneus sem câmara de ar radial designados antifurros",
+          "São pneus com telas em forma diagonal",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A cilindrada :",
+        "options": [
+          "É igual a aceleração do motor",
+          "É igual a potencia do motor",
+          "É mesmo que a velocidade do veículo",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "como se chama o extremo superior da biela ?",
+        "options": [
+          "Pé da biela",
+          "Cabeça da biela",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Que sistema de travagem utiliza o ar comprimido?",
+        "options": [
+          "O sistema Pneumático",
+          "O sistema mecânico",
+          "O sistema hidráulico"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "A válvula",
+        "options": [
+          "Um dispositivo que permite a entrada e saída dos gases no interior de um cilindro fechado",
+          "Um dispositivo que permite regular a velocidade do veículo em marcha",
+          "Um dispositivo que permite trocar as marchas do veículo",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Nos veículos com direção assistida essa só funciona??",
+        "options": [
+          "Com o motor desligado",
+          "Com o motor a trabalhar",
+          "Com o veículo em andamento",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "As escovas do dínamo são de:",
+        "options": [
+          "Cobre",
+          "Metal",
+          "Carvão",
+          "Uma fibra especial"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O dispositivo que se destina a fornecer eficiência ao sistema de travagem, chama-se",
+        "options": [
+          "Nenhuma das respostas esta correcta",
+          "Disco de embriagem",
+          "Compressor de ar",
+          "Servo freio"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Os automóveis quanto a sua classe ;",
+        "options": [
+          "Ligeiros, pesados, mistos",
+          "Pesados, motociclos, ligeiros",
+          "Ligeiros e pesados",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O diferencial permite as rodas motoras;",
+        "options": [
+          "Percorrer distâncias iguais",
+          "Evitar a rigidez entre as rodas",
+          "Nenhuma das afirmações é correta",
+          "Percorrem distâncias diferentes"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "O órgão que serve para comandar o funcionamento das válvulas chama-se:",
+        "options": [
+          "Veio intermédio",
+          "Bielas",
+          "Veio excêntrico",
+          "Cambota"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A bobine tem como função",
+        "options": [
+          "Gerar corrente eléctrica que é fornecida a bateria",
+          "Interromper a corrente num determinado circuito",
+          "Transformar a corrente de alta em baixa",
+          "Transformar a corrente de baixa em alta tensão"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Num motor com duas válvulas por cilindro (uma admissão e outra de escape)",
+        "options": [
+          "Os diâmetros das cabeças das válvulas de admissão são maiores que os das válvulas de escape",
+          "Os diâmetros das cabeças das válvulas de escape são maiores que os das válvulas de admissão",
+          "Os diâmetros das cabeças das válvulas de admissão são iguais aos das válvulas de escape",
+          "O comprimento das hastes das válvulas de admissão é sempre maiores que as das válvulas de escapes"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quantas toneladas tem um veículo ligeiro ;",
+        "options": [
+          "De 1 a 3.5t",
+          "De 1 a 4.5t",
+          "De 1 a 10t",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O que podemos encontrar nas ranhuras dos êmbolos :",
+        "options": [
+          "Juntas",
+          "Segmentos",
+          "Cavilha",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-8",
+    "title": "EXAME #8",
+    "description": "Iluminação e Elétrica - 25 questões",
+    "questions": [
+      {
+        "question": "A luz média (cruzamento) projectada para o solo deverá iluminar eficazmente a uma distancia de ?",
+        "options": [
+          "Não superior a 30 metros",
+          "Não superior a 100 metros",
+          "Não superior a 50 metros",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Ao accionar a luz média (cruzamento) qual é a cor da luz piloto que aparece no painel ?",
+        "options": [
+          "Vermelha",
+          "Amarela",
+          "Verde",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A luz de estrada (máxima) ilumina eficazmente a uma distancia de :",
+        "options": [
+          "30 metros",
+          "50 metros",
+          "100 metros",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Ao accionar a luz de estrada (máxima) qual é a cor da luz piloto que aparece no painel ?",
+        "options": [
+          "Vermelha",
+          "Azul",
+          "Verde",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "defina o filtro de ar",
+        "options": [
+          "Dispositivo que se destina a retirar as impurezas do combustível",
+          "Dispositivo que se destina a retirar as impurezas do ar",
+          "Dispositivo que se destina a retirar as impurezas do óleo",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Para aonde vai o diesel pulverizado ?",
+        "options": [
+          "Câmara de explosão",
+          "Câmara de combustão",
+          "Câmara de ar",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O volante do motor fixa se ao eixo das manivelas por ?",
+        "options": [
+          "Pernos",
+          "Parafusos",
+          "Abraçadeiras",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Quantos carretos tem o veio primário de um veículo com uma caixa de 4 velocidades",
+        "options": [
+          "Um carreto",
+          "Dois carretos",
+          "Três carretos",
+          "Quatro carretos"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "É aconselhável a mistura para lubrificação do motor, de 2 ou mais índices ou marcas de Óleos diferentes",
+        "options": [
+          "Sim",
+          "Sim porque melhora qualidade do óleo",
+          "Não",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Onde se encontra situada a turbina que, divide a um eixo comum, movimenta o turbo compressor",
+        "options": [
+          "No colector de admissão",
+          "Na cabeça do motor",
+          "No colector de escape"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Com quantos pernos aperta a biela?",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "Nenhuma das respostas esta correcta"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Quando as maxilas dos travões são acionadas por êmbolos dos cilindros que tipo de travão se trata ?",
+        "options": [
+          "Mecanico",
+          "De Ar comprimido",
+          "Servo-freio",
+          "Hidraulicos"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "No tempo de explosão (combustão) em que posição se encontram as válvulas ?",
+        "options": [
+          "A de escape fechada e a de admissão aberta",
+          "Totalmente fechadas",
+          "Totalmente abertas",
+          "A de admissão fechada e a de escape aberta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "De que tipo é a corrente eléctrica que percorre a vela de ignição?",
+        "options": [
+          "De baixa tensão",
+          "Alternada consecutiva",
+          "Alta - tensão"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A embriagem faz parte da?",
+        "options": [
+          "Suspensão",
+          "Direcção",
+          "Transmissão",
+          "Caixa da velocidade"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O que é que se passa no colector de admissão do motor Diesel ?",
+        "options": [
+          "A presença da mistura gasosa",
+          "A presença de Ar",
+          "A presença de gasóleo pulverizado",
+          "A presença da gasolina pulverizada"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Entre que peças fica montado o filtro principal nos motores Diesel ?",
+        "options": [
+          "Bomba mecânica e bomba de injecção",
+          "Bomba injectora e injectores",
+          "Bomba mecânica e bomba manual",
+          "Injector e câmara de explosão"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Para fazer o atraso a inflamação deve-se rodar o corpo do distribuidor ?",
+        "options": [
+          "Para direita",
+          "Para o lado que roda o motor",
+          "Para o lado contrario que roda o motor",
+          "Para a esquerda"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A agua desaparece do radiador e aparece no carter, Qual pode ser o motivo?",
+        "options": [
+          "Radiador roto",
+          "Termostato avariado",
+          "Junta da cabeça queimada",
+          "Bomba de agua avariada"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Onde actua a forquilha da embraiagem",
+        "options": [
+          "No prato fixo",
+          "No prato móvel",
+          "No disco da embraiagem",
+          "No rolamento de encosto"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Os buracos das tampas da bateria servem para ?",
+        "options": [
+          "Verificar o nível",
+          "Deixar evaporar a água",
+          "Deixar evaporar o ácido",
+          "Deixar libertar os gases"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Rodar as válvulas do motor, consiste em?",
+        "options": [
+          "Trocar as válvulas",
+          "Polir as sedes das válvulas com massa de esmeril",
+          "Desempenar as hastes das válvulas",
+          "Rectificar os pés das válvulas"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "O veio de ressalto do distribuidor serve?",
+        "options": [
+          "Aumentar a corrente nas velas",
+          "Dosear a quantidade de combustível",
+          "Abrir e fechar o platinado móvel",
+          "Atrasar ou avançar a ignição"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "O conjutor - disjuntor serve para ?",
+        "options": [
+          "Regular a intensidade da corrente das velas",
+          "Estabilizar a carga da bateria",
+          "Abrir e fechar os platinados",
+          "Transforma a corrente de baixa em alta tensão"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "As molas do disco de embraiagem servem?",
+        "options": [
+          "Para apertar o disco contra o prato móvel",
+          "Para evitar que o disco 'patine'",
+          "Para não deixar o disco empenar",
+          "Para diminuir o esforço nos órgãos de transmissão"
+        ],
+        "answerIndex": 1,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "exame-9",
+    "title": "EXAME #9",
+    "description": "Sistemas Avançados - 25 questões",
+    "questions": [
+      {
+        "question": "Qual é o material usado para fabricar os cilindros",
+        "options": [
+          "Alumínio",
+          "Ferro fundido",
+          "Inox",
+          "Antimónio"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Nos motores diesel convencionais o avanço inicial a injecção do gasóleo é regulado?",
+        "options": [
+          "Aumentando ou diminuindo a pressão de ignição",
+          "Aumentando ou diminuindo o débito da bomba injectora",
+          "Rodando a bomba injectora",
+          "Nenhuma resposta esta certa"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "A corrente de alta tensão não chega ao distribuidor qual poderá ser a causa?",
+        "options": [
+          "Placa do distribuidor partida",
+          "Bobine avariada",
+          "Placa do distribuidor com humidade",
+          "Velas gastas"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Quantos ressaltos tem o veio de excêntricos do distribuidor?",
+        "options": [
+          "Tantos quantos os cilindros do motor",
+          "Tantos quantos os elementos da bateria",
+          "O dobro do numero de cilindros do motor",
+          "O dobro do numero de elementos da bateria"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Para afinar os platinados é necessário que estes estejam",
+        "options": [
+          "Totalmente fechados",
+          "Totalmente abertos",
+          "Parcialmente fechados",
+          "Parcialmente abertos"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O que acontece se ligarmos o aquecimento com o motor frio ?",
+        "options": [
+          "O motor leva menos tempo a atingir a temperatura normal",
+          "O motor leva mais tempo a atingir a temperatura normal",
+          "O motor não funciona",
+          "O termóstato mantém-se sempre aberto"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quando é que se transforma a corrente de baixa em alta tensão?",
+        "options": [
+          "Quando se interrompe a corrente no enrolamento primário da bobine",
+          "Quando se interrompe a corrente no enrolamento secundário da bobine",
+          "Quando o platinado móvel e o fixo se encontram encostados",
+          "Quando se põe o motor em funcionamento"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Onde estão fixados os tambores do travão?",
+        "options": [
+          "No pedal de travão",
+          "Estão fixados aos cubos das rodas",
+          "Nas maxilas",
+          "Estão fixados no diferencial"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "Qual o aparelho utilizado para verificar a carga da bateria ?",
+        "options": [
+          "O termómetro",
+          "O higrómetro",
+          "O densímetro",
+          "O barómetro"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Onde estão ligadas as rodas da frente num veículo de tracção atrás?",
+        "options": [
+          "Aos cavilhões",
+          "Aos cubos",
+          "Às mangas do eixo",
+          "À barra transversal"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Quantos carretos tem o veio primário de um veículo com uma caixa de 4 velocidades?",
+        "options": [
+          "Dois carretos",
+          "Um carreto",
+          "Três carretos",
+          "Quartos carretos"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "As bombas de óleo de engrenagem são constituídas por",
+        "options": [
+          "Três rodas dentadas com o mesmo diâmetro",
+          "Duas rodas dentadas com diâmetros diferentes",
+          "Duas rodas dentadas com mesmo diâmetro",
+          "Dois lóbulos"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Qual a função dos segmentos?",
+        "options": [
+          "Evitar que os gases passem para o Carter",
+          "Evitar que os gases, ao serem comprimidos, passem para os colectores de admissão",
+          "Evitar que os gases, ao serem comprimidos, passem para os colectores de escape"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "Quando o condutor carrega o pedal de embralagem:",
+        "options": [
+          "Interrompe-se a ligação entre o motor e a caixa de velocidades",
+          "Disco da embraiagem aproxima-se do volante do motor",
+          "Estabelece-se a ligação entre o motor e a caixa de velocidades"
+        ],
+        "answerIndex": 0,
+        "image": null
+      },
+      {
+        "question": "O motor de 4 tempos tem:",
+        "options": [
+          "Admissão, compressão e Escape",
+          "Nenhuma das respostas é correcta",
+          "Admissão, combustão, explosão e escape",
+          "Admissão, compressão, explosão ou combustão e escape"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Cilindrada de um motor é",
+        "options": [
+          "Nenhuma das respostas é correcta",
+          "A que define a velocidade do veículo automóvel",
+          "É igual a potência do motor",
+          "A soma dos volumes de todos os cilindros dum motor"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Num automóvel com rodas da frente desequilibradas, pode se verificar",
+        "options": [
+          "Um desgaste anormal das molas",
+          "O aumento significativo da folga e consumo excessivo de combustível",
+          "Uma vibração acentuada da direção"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Os motores monocilíndricos são aqueles que:",
+        "options": [
+          "Só têm 2 cilindros",
+          "Só têm 1 cilindro",
+          "Só têm 1 ou 2 cilindros",
+          "Nenhuma das respostas é correcta"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A função do injector nos motores do ciclo Diesel é:",
+        "options": [
+          "Injectar a mistura combustível na quantidade e momento certos",
+          "Injectar a gasolina na camara de explosão",
+          "Injectar a mistura de gasóleo e gasolina na camara de combustão",
+          "Injectar/pulverizar o gasóleo na câmara de combustão"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Num veículo pesado de mercadorias qual é a estrutura mais resistente?",
+        "options": [
+          "Monoblocco",
+          "Carroçaria",
+          "Longarina",
+          "Chassis ou Quadro"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Quais são os tipos de carters que conheces?",
+        "options": [
+          "Humido, misto e seco",
+          "Nenhuma das respostas é correcta",
+          "Humido",
+          "Humido e o seco"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Um desgaste excessivo na parte central do pneu é devido a:",
+        "options": [
+          "Pressão insuficiente",
+          "Prática de travagens bruscas",
+          "Excesso de carga",
+          "Pressão excessiva"
+        ],
+        "answerIndex": 3,
+        "image": null
+      },
+      {
+        "question": "Os gases resultantes da combustão e libertados para a atmosfera pelos veículos a motor são:",
+        "options": [
+          "Absorvidos pela atmosfera sem consequências negativas para o ambiente",
+          "Prejudiciais ao meio ambiente, mas benéficos para a natureza",
+          "Prejudiciais ao meio ambiente e ao ser humano"
+        ],
+        "answerIndex": 2,
+        "image": null
+      },
+      {
+        "question": "Para que serve o volante do motor de combustão interna?",
+        "options": [
+          "Nenhuma das respostas é correcta",
+          "Armazena a energia recebida das explosões nos cilindros e devolve-a nos momentos em que o motor não desenvolve potência",
+          "Consome a energia recebida das explosões nos cilindros e usa-a nos momentos em que o motor desenvolve potência",
+          "Armazena a energia recebida das explosões nos cilindros e consome-a nos momentos em que o motor desenvolve potência"
+        ],
+        "answerIndex": 1,
+        "image": null
+      },
+      {
+        "question": "A altura máxima de um veículo em Moçambique é de:",
+        "options": [
+          "3.50 metros",
+          "6,00 metros",
+          "5,80 metros",
+          "4,30 metros"
+        ],
+        "answerIndex": 3,
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "teste1",
+    "title": "Teste1",
+    "description": "",
+    "questions": [
+      {
+        "question": "Durante o tempo de escape de um motor de combustão interna, como se encontram as válvulas?",
+        "options": [
+          "As duas abertas.",
+          "A de admissão fechada e a de escape aberta.",
+          "A de admissão aberta e a de escape fechada."
+        ],
+        "answerIndex": 1,
+        "image": "src/Images/Teste1/image1.jpg"
+      },
+      {
+        "question": "Para que os travões atuem com eficácia num veículo com servo-freio, o condutor deve:",
+        "options": [
+          "Durante a condução, manter o motor sempre a trabalhar.",
+          "Ter o cuidado de acelerar ao mesmo tempo que trava.",
+          "Ter o cuidado de desembraiar sempre que trava."
+        ],
+        "answerIndex": 0,
+        "image": "src/Images/Teste1/image2.jpg"
+      },
+      {
+        "question": "Deve-se deitar água no radiador quando o motor ainda estiver quente?",
+        "options": [
+          "Não, nunca.",
+          "Sim, desde que o motor esteja a trabalhar.",
+          "Sim, desde que o motor esteja parado."
+        ],
+        "answerIndex": 0,
+        "image": "src/Images/Teste1/image3.jpg"
+      },
+      {
+        "question": "O que se nota na condução de um automóvel que não tenha as rodas da frente alinhadas?",
+        "options": [
+          "O veículo trava mais numa das rodas.",
+          "Não se nota nada de especial.",
+          "Com o volante direito, o veículo desvia-se para um dos lados."
+        ],
+        "answerIndex": 2,
+        "image": "src/Images/Teste1/image4.jpg"
+      },
+      {
+        "question": "O diferencial serve para:",
+        "options": [
+          "Ligar a embraiagem à caixa de velocidades.",
+          "Transmitir o movimento do motor à caixa de velocidades.",
+          "As rodas motoras rodarem com velocidades diferentes."
+        ],
+        "answerIndex": 2,
+        "image": "src/Images/Teste1/image5.jpg"
+      },
+      {
+        "question": "Se os amortecedores hidráulicos de um automóvel estiverem descarregados, o condutor nota:",
+        "options": [
+          "Aumento do consumo de combustível.",
+          "Aumento de desgaste dos pneus.",
+          "Dificuldade de travagem.",
+          "Oscilação demasiada das molas."
+        ],
+        "answerIndex": 3,
+        "image": "src/Images/Teste1/image6.jpg"
+      },
+      {
+        "question": "Para evitar avarias no sistema de lubrificação do motor, periodicamente, deve-se substituir:",
+        "options": [
+          "O filtro de gasóleo.",
+          "O filtro de ar.",
+          "A bomba de óleo.",
+          "O filtro de óleo."
+        ],
+        "answerIndex": 3,
+        "image": "src/Images/Teste1/image7.jpg"
+      },
+      {
+        "question": "Um pneu com pressão muito inferior à recomendada apresenta maior desgaste:",
+        "options": [
+          "Nos bordos laterais.",
+          "No lado esquerdo.",
+          "Na zona central.",
+          "No lado direito."
+        ],
+        "answerIndex": 0,
+        "image": "src/Images/Teste1/image8.jpg"
+      },
+      {
+        "question": "Durante o transporte de materiais pulverulentos em automóvel de mercadorias de caixa aberta, o condutor deve assegurar-se de que:",
+        "options": [
+          "A mercadoria transportada não se espalhe pela caixa de carga.",
+          "A mercadoria transportada não se espalhe pelo ar e pela faixa de rodagem.",
+          "O peso da mercadoria não ultrapasse a tara do automóvel."
+        ],
+        "answerIndex": 1,
+        "image": "src/Images/Teste1/image9.jpg"
+      },
+      {
+        "question": "O nível do eletrólito da bateria deverá permanecer sempre:",
+        "options": [
+          "Ao nível das placas.",
+          "Abaixo das placas.",
+          "Acima das placas.",
+          "A meio das placas."
+        ],
+        "answerIndex": 0,
+        "image": "src/Images/Teste1/image10.jpg"
+      }
+    ]
+  }
+]

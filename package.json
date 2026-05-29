@@ -1,0 +1,16 @@
+{
+  "name": "simulador-exame-de-conducao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulador de Exame de Condução profissional desenvolvido por Cau Solutions.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
