@@ -1,6 +1,5 @@
 import '@/styles/globals.css';
 import Head from 'next/head';
-import Layout from '@/components/Layout';
 
 export default function App({ Component, pageProps }) {
   return (
@@ -10,9 +9,7 @@ export default function App({ Component, pageProps }) {
         <link rel="icon" href="/favicon.svg" />
         <title>Simulador de Exame - Cau Solutions</title>
       </Head>
-      <Layout>
-        <Component {...pageProps} />
-      </Layout>
+      <Component {...pageProps} />
     </>
   );
 }
