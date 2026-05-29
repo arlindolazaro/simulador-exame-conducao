@@ -8,6 +8,7 @@ export default function AnswerOptions({ options, selectedAnswer, correctAnswer, 
       {options.map((option, index) => {
         const isSelected = selectedAnswer === index;
         const isCorrect = correctAnswer === index;
+
         const className = reviewMode
           ? isCorrect
             ? styles.optionCorrect
@@ -20,14 +21,15 @@ export default function AnswerOptions({ options, selectedAnswer, correctAnswer, 
 
         return (
           <button
-            key={option}
+            key={`${option}-${index}`}
             type="button"
             className={className}
             onClick={() => onSelect(index)}
             disabled={reviewMode}
+            aria-pressed={isSelected}
           >
-            <span className={styles.optionLabel}>{labelForIndex[index]})</span>
-            <span>{option}</span>
+            <span className={styles.optionLabel}>{labelForIndex[index]}</span>
+            <span className={styles.optionText}>{option}</span>
           </button>
         );
       })}
